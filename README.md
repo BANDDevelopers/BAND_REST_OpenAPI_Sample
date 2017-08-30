@@ -1,4 +1,9 @@
 # Sample Project using BAND OpenAPI
+See also [Developers Guide](http://developers.band.us/develop/guide/api/get_authorization_code_from_user)
+
+## Features
+- Login with BAND ([Get User Access Token](http://developers.band.us/develop/guide/api/get_authorization_code_from_user)) ([OAuth 2.0](https://tools.ietf.org/html/rfc6749#section-4.1)) 
+- Get my BAND profile ([Get User Profile](http://developers.band.us/develop/guide/api/get_user_information))
 
 ## Requirements
 - [Java Platform (JDK) 8](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
