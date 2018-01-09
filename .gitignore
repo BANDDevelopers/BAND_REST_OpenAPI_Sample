@@ -36,3 +36,4 @@ nbdist/
 deploy/
 out/
 bin/
+.DS_Store
